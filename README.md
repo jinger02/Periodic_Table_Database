@@ -1,4 +1,5 @@
 # Periodic_Table_Database
+Solution for the Periodic Table of Elements challenge under Relational Database track.
 
 You should rename the weight column to atomic_mass
 
